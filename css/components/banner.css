@@ -1,0 +1,29 @@
+.banner {
+  background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.6),
+      rgba(0, 0, 0, 0.6)
+    ),
+    url(../images/inaka.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 200px 0;
+}
+
+.container {
+  margin-bottom: 10px;
+  padding-left: 90px;
+}
+
+.container h2 {
+  color: whitesmoke;
+  margin: 0;
+}
+
+.container p {
+  color: whitesmoke;
+  opacity: .9;
+  font-size: 14px;
+  margin: 0;
+}
