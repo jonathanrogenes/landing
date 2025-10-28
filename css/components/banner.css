@@ -19,11 +19,14 @@
 .container h2 {
   color: whitesmoke;
   margin: 0;
+  font-weight: 800;
+  font-size: 22px;
 }
 
 .container p {
   color: whitesmoke;
   opacity: .9;
-  font-size: 14px;
+  font-size: 18px;
   margin: 0;
+  font-weight: 800;
 }
